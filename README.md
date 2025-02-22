@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamchamohammed&label=Profile%20views&color=0e75b6&style=flat" alt="mamchamohammed" /> </p>
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any project.**
+
+- 📫 How to reach me **Mgryan20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
