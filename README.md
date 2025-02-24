@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamcha Mohammed Rayane</h1>
 <h3 align="center">A passionate web & mobile developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamchamohammed&label=Profile%20views&color=0e75b6&style=flat" alt="mamchamohammed" /> </p>
-
 - 👯 I’m looking to collaborate on **any project.**
 
 - 📫 How to reach me **Mgryan20@gmail.com**
